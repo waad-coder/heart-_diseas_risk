@@ -1,2 +1,2 @@
-# heart-_diseas_risk
+# heart-_diseas_risk_app
 .
